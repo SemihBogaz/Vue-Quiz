@@ -1,5 +1,6 @@
-# quiz
+# Simple quiz app with vue.js
 
+Open Trivia DB had been used to get questions
 ## Project setup
 ```
 npm install
